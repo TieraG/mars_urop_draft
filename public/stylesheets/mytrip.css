@@ -1,0 +1,105 @@
+
+
+#mytrip-content { 
+  width: 100%; 
+  height: 100%; 
+    position: fixed; 
+    left: 0px; 
+    top: 0px; 
+    z-index: -1;
+  background-image: url("../images/MarsTerrain.jpg");
+  background-position: 0px 0px;
+    background-size: 100%;
+  background-repeat: repeat-y;
+    overflow: scroll;
+}
+
+
+
+.canvas {
+background-color: #000000;
+padding-top: 10px;
+  font-family: sans-serif;
+  opacity: .8;
+  font-size: 20px;
+  height: 150%;
+  text-align: center;
+  color: white;
+}
+
+#navBar {
+	background-color: #000000;
+}
+#body{
+	background-color: #000000;
+}
+
+.container {
+	position: relative;
+}
+
+#sidebar {
+	background-color: #000000;
+    position:absolute;
+}
+
+#content {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  opacity: .8;
+  font-family: sans-serif;
+}
+
+.glow:hover{
+  opacity: 0.50;
+};
+
+.text-header {
+  text-align: center;
+}
+
+#capaNav {
+	background-color: #000000;
+	opacity: 0.8;
+}
+
+.nav {
+  text-align: center;
+  font-family: 'BankGothic Md BT';
+  padding-bottom: 50px;
+}
+
+#capa-text {
+  font-family: sans-serif;
+/*  font-weight: bold;
+*/  letter-spacing: 1px;
+/*  text-transform: uppercase;
+*/  background-color: rgba(0,0,0,0.5);
+}
+
+.no-fontface capa-text {
+  font-family: sans-serif;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-transform: none;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.d3_tip {
+  line-height: 1;
+  padding: 5px;
+  font-size: 16px;
+  font-family: 'BankGothic Md BT';
+  background: grey;
+  border-radius: 2px;
+  border: 2px solid black;
+  width: 60px;
+  text-align: left;
+}
+
+#sidebarHeader {
+	color: white; text-shadow: brown 0.1em 0.1em 0.5em
+
+}

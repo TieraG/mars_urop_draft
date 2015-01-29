@@ -1,0 +1,7 @@
+-- Finish Mission Page
+-- Edit In-Space Propulsion Page to include definitions of terms on mouseover
+-- Edit In-Space Propulsion Page to include reasonings for each capability on mouseover
+-- Work on d3
+-- Extrapolate data into excel file to then create d3 graphics
+-- Refer to d3 showreel example
+-- Formulate My Trip page by Sunday
